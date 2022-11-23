@@ -4,6 +4,7 @@ Overview
 The app is all about collecting data on Pets.The app has one input form to collect data about `pets` and one table view to display the data collected so far.The app also have the feature of updating the data of each row in grid.Column ordering,sorting,and filter of table data is the additional feature in the app. 
 
 Version&Technology Required 
+
 ReactJs:18.2.0 
 
 NodeJs:16.6.0 or above 
