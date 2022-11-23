@@ -1,0 +1,25 @@
+{
+  "pets": [
+    {
+      "name": "doggee",
+      "tag": "dog",
+      "status": "Available",
+      "description": "white color dog",
+      "id": 1
+    },
+    {
+      "name": "meow",
+      "tag": "cat",
+      "status": "Not-Available",
+      "description": "blackcat",
+      "id": 2
+    },
+    {
+      "name": "sheru",
+      "tag": "dog",
+      "status": "Not-Available",
+      "description": "black dog",
+      "id": 3
+    }
+  ]
+}
